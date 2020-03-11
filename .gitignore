@@ -1,1 +1,6 @@
 .DS_Store
+.client/node_modules
+.client/package-lock.json
+.client/dist
+.christianmartorano.github.io
+.server/node_modules
