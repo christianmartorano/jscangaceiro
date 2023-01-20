@@ -4,7 +4,7 @@ Este repositório é o projeto final do Livro "[Cangaceiro Javascript](https://w
 
 Neste livro aprendi diversos Conceitos do Javascript desde o paradigma funcional até a orientação a objetos, aprendi também sobre o modelo MVC e padrões de projetos.
 
-Recomendo muito este livro, para quem quiser se aprofundar no cangaço Javascript, meus parabéns 👏👏👏 ao autor!
+Recomendo muito este livro para quem quiser se aprofundar no cangaço Javascript, meus parabéns 👏👏👏 ao autor!
 
 
 
